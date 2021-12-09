@@ -73,7 +73,7 @@ class Clustering:
              else:
                 self.__clusters.append(cluster)
             else:
-             rint("ic should be either 'bic' or 'aic'")
+             print("ic should be either 'bic' or 'aic'")
              sys.exit() 
 
     class Cluster:
