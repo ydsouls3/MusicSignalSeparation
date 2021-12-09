@@ -8,6 +8,7 @@ pip install -r requirements.txt
 ```
 # Usage
 * clustering.py
+
 Separating and clustering music sound for each instrument sound.
 ```bash
 python clustering.py "file_path for target sound(wave_file)"
